@@ -13,7 +13,7 @@ Define the email you want the daily logic app to be sent too
 
 ## Deployment
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FKwachSean%2FSecurityCopilot%2Fmain%2Fplaybooks%2FThreatBulletinCopilot%2Fazuredeploy.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FKwachSean%2FSecurityCopilot%2Fmain%2Fplaybooks%2FInvestigateFailedSignins%2Fazuredeploy.json" target="_blank">
     <img src="https://aka.ms/deploytoazurebutton"/>
 
 </a>
@@ -25,4 +25,6 @@ Define the email you want the daily logic app to be sent too
 2. Authenticate the Copilot Prompts with a User that has Access to Security Copilot 
 3. Proceed to run the Logic app and Prepare for the results 
 
+
+![Investigate Failed Sign-Ins](https://raw.githubusercontent.com/KwachSean/SecurityCopilot/main/playbooks/InvestigateFailedSignins/investigatefailedsignins.png)
 
